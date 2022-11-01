@@ -21,7 +21,8 @@ To do this, replace the values in `auth_config.json` with your own Auth0 applica
 ```json
 {
   "domain": "<YOUR AUTH0 DOMAIN>",
-  "clientId": "<YOUR AUTH0 CLIENT ID>"
+  "clientId": "<YOUR AUTH0 CLIENT ID>",
+  "audience": "<YOUR AUTH0 API IDENTIFIER"
 }
 ```
 
